@@ -1,7 +1,7 @@
 @ECHO OFF
 
 
-@REM Demande l'emplacement de la souvegarde
+
 :loop
 cls & Color 0A
 set /p id="Quel dossier souhaitez-vous sauvegarder ?"
